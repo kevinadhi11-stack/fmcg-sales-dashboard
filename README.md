@@ -12,8 +12,8 @@ Dashboard Power BI untuk menganalisis penjualan, profit, dan margin sebuah perus
 | Total profit | Rp 505,89 juta |
 | Margin profit | 30,46% |
 
-![Halaman 1](images/page1.png)
-![Halaman 2](images/page2.png)
+![Halaman 1](Page%201.png)
+![Halaman 2](Page%202.png)
 
 ## Pertanyaan Bisnis
 1. Bagaimana tren penjualan bulanan dan adakah pola musiman?
