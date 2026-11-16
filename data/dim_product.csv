@@ -1,0 +1,16 @@
+product_id,product_name,category,brand,list_price,unit_cost
+P001,Teh Botol 350ml,Minuman,Segar,5000,3400
+P002,Air Mineral 600ml,Minuman,Jernih,3500,2520
+P003,Kopi Sachet 10pcs,Minuman,Kopiku,12000,8400
+P004,Minuman Isotonik 500ml,Minuman,Fit,8000,5120
+P005,Keripik Kentang 70g,Makanan Ringan,Krispi,9500,6270
+P006,Biskuit Cokelat 100g,Makanan Ringan,Manis,7500,5025
+P007,Mi Instan Goreng,Makanan Ringan,Nusa,3200,2496
+P008,Wafer Krim 120g,Makanan Ringan,Manis,6500,4225
+P009,Sabun Mandi Cair 450ml,Perawatan Pribadi,Bersih,21000,11550
+P010,Sampo 170ml,Perawatan Pribadi,Cantika,18500,9620
+P011,Pasta Gigi 120g,Perawatan Pribadi,Senyum,12500,7250
+P012,Deterjen Bubuk 800g,Kebutuhan Rumah Tangga,Bersinar,23000,17020
+P013,Pembersih Lantai 800ml,Kebutuhan Rumah Tangga,Bersinar,16500,11880
+P014,Susu UHT 1L,Susu & Olahan,Sehat,18000,14400
+P015,Susu Kental Manis 370g,Susu & Olahan,Sehat,13500,10260

@@ -1,0 +1,86 @@
+store_id,store_name,channel,city,region
+S001,Modern Trade Bandung 1,Modern Trade,Bandung,Jawa Barat
+S002,Modern Trade Bandung 2,Modern Trade,Bandung,Jawa Barat
+S003,Toko Tradisional Bandung 1,Toko Tradisional,Bandung,Jawa Barat
+S004,Toko Tradisional Bandung 2,Toko Tradisional,Bandung,Jawa Barat
+S005,E-commerce Bandung 1,E-commerce,Bandung,Jawa Barat
+S006,Modern Trade Bekasi 1,Modern Trade,Bekasi,Jawa Barat
+S007,Modern Trade Bekasi 2,Modern Trade,Bekasi,Jawa Barat
+S008,Toko Tradisional Bekasi 1,Toko Tradisional,Bekasi,Jawa Barat
+S009,Toko Tradisional Bekasi 2,Toko Tradisional,Bekasi,Jawa Barat
+S010,E-commerce Bekasi 1,E-commerce,Bekasi,Jawa Barat
+S011,Modern Trade Bogor 1,Modern Trade,Bogor,Jawa Barat
+S012,Modern Trade Bogor 2,Modern Trade,Bogor,Jawa Barat
+S013,Toko Tradisional Bogor 1,Toko Tradisional,Bogor,Jawa Barat
+S014,Toko Tradisional Bogor 2,Toko Tradisional,Bogor,Jawa Barat
+S015,E-commerce Bogor 1,E-commerce,Bogor,Jawa Barat
+S016,Modern Trade Cirebon 1,Modern Trade,Cirebon,Jawa Barat
+S017,Modern Trade Cirebon 2,Modern Trade,Cirebon,Jawa Barat
+S018,Toko Tradisional Cirebon 1,Toko Tradisional,Cirebon,Jawa Barat
+S019,Toko Tradisional Cirebon 2,Toko Tradisional,Cirebon,Jawa Barat
+S020,E-commerce Cirebon 1,E-commerce,Cirebon,Jawa Barat
+S021,Modern Trade Jakarta Selatan 1,Modern Trade,Jakarta Selatan,DKI Jakarta
+S022,Modern Trade Jakarta Selatan 2,Modern Trade,Jakarta Selatan,DKI Jakarta
+S023,Toko Tradisional Jakarta Selatan 1,Toko Tradisional,Jakarta Selatan,DKI Jakarta
+S024,Toko Tradisional Jakarta Selatan 2,Toko Tradisional,Jakarta Selatan,DKI Jakarta
+S025,E-commerce Jakarta Selatan 1,E-commerce,Jakarta Selatan,DKI Jakarta
+S026,Modern Trade Jakarta Barat 1,Modern Trade,Jakarta Barat,DKI Jakarta
+S027,Modern Trade Jakarta Barat 2,Modern Trade,Jakarta Barat,DKI Jakarta
+S028,Toko Tradisional Jakarta Barat 1,Toko Tradisional,Jakarta Barat,DKI Jakarta
+S029,Toko Tradisional Jakarta Barat 2,Toko Tradisional,Jakarta Barat,DKI Jakarta
+S030,E-commerce Jakarta Barat 1,E-commerce,Jakarta Barat,DKI Jakarta
+S031,Modern Trade Jakarta Timur 1,Modern Trade,Jakarta Timur,DKI Jakarta
+S032,Modern Trade Jakarta Timur 2,Modern Trade,Jakarta Timur,DKI Jakarta
+S033,Toko Tradisional Jakarta Timur 1,Toko Tradisional,Jakarta Timur,DKI Jakarta
+S034,Toko Tradisional Jakarta Timur 2,Toko Tradisional,Jakarta Timur,DKI Jakarta
+S035,E-commerce Jakarta Timur 1,E-commerce,Jakarta Timur,DKI Jakarta
+S036,Modern Trade Semarang 1,Modern Trade,Semarang,Jawa Tengah
+S037,Modern Trade Semarang 2,Modern Trade,Semarang,Jawa Tengah
+S038,Toko Tradisional Semarang 1,Toko Tradisional,Semarang,Jawa Tengah
+S039,Toko Tradisional Semarang 2,Toko Tradisional,Semarang,Jawa Tengah
+S040,E-commerce Semarang 1,E-commerce,Semarang,Jawa Tengah
+S041,Modern Trade Solo 1,Modern Trade,Solo,Jawa Tengah
+S042,Modern Trade Solo 2,Modern Trade,Solo,Jawa Tengah
+S043,Toko Tradisional Solo 1,Toko Tradisional,Solo,Jawa Tengah
+S044,Toko Tradisional Solo 2,Toko Tradisional,Solo,Jawa Tengah
+S045,E-commerce Solo 1,E-commerce,Solo,Jawa Tengah
+S046,Modern Trade Tegal 1,Modern Trade,Tegal,Jawa Tengah
+S047,Modern Trade Tegal 2,Modern Trade,Tegal,Jawa Tengah
+S048,Toko Tradisional Tegal 1,Toko Tradisional,Tegal,Jawa Tengah
+S049,Toko Tradisional Tegal 2,Toko Tradisional,Tegal,Jawa Tengah
+S050,E-commerce Tegal 1,E-commerce,Tegal,Jawa Tengah
+S051,Modern Trade Surabaya 1,Modern Trade,Surabaya,Jawa Timur
+S052,Modern Trade Surabaya 2,Modern Trade,Surabaya,Jawa Timur
+S053,Toko Tradisional Surabaya 1,Toko Tradisional,Surabaya,Jawa Timur
+S054,Toko Tradisional Surabaya 2,Toko Tradisional,Surabaya,Jawa Timur
+S055,E-commerce Surabaya 1,E-commerce,Surabaya,Jawa Timur
+S056,Modern Trade Malang 1,Modern Trade,Malang,Jawa Timur
+S057,Modern Trade Malang 2,Modern Trade,Malang,Jawa Timur
+S058,Toko Tradisional Malang 1,Toko Tradisional,Malang,Jawa Timur
+S059,Toko Tradisional Malang 2,Toko Tradisional,Malang,Jawa Timur
+S060,E-commerce Malang 1,E-commerce,Malang,Jawa Timur
+S061,Modern Trade Kediri 1,Modern Trade,Kediri,Jawa Timur
+S062,Modern Trade Kediri 2,Modern Trade,Kediri,Jawa Timur
+S063,Toko Tradisional Kediri 1,Toko Tradisional,Kediri,Jawa Timur
+S064,Toko Tradisional Kediri 2,Toko Tradisional,Kediri,Jawa Timur
+S065,E-commerce Kediri 1,E-commerce,Kediri,Jawa Timur
+S066,Modern Trade Medan 1,Modern Trade,Medan,Sumatera Utara
+S067,Modern Trade Medan 2,Modern Trade,Medan,Sumatera Utara
+S068,Toko Tradisional Medan 1,Toko Tradisional,Medan,Sumatera Utara
+S069,Toko Tradisional Medan 2,Toko Tradisional,Medan,Sumatera Utara
+S070,E-commerce Medan 1,E-commerce,Medan,Sumatera Utara
+S071,Modern Trade Binjai 1,Modern Trade,Binjai,Sumatera Utara
+S072,Modern Trade Binjai 2,Modern Trade,Binjai,Sumatera Utara
+S073,Toko Tradisional Binjai 1,Toko Tradisional,Binjai,Sumatera Utara
+S074,Toko Tradisional Binjai 2,Toko Tradisional,Binjai,Sumatera Utara
+S075,E-commerce Binjai 1,E-commerce,Binjai,Sumatera Utara
+S076,Modern Trade Makassar 1,Modern Trade,Makassar,Sulawesi Selatan
+S077,Modern Trade Makassar 2,Modern Trade,Makassar,Sulawesi Selatan
+S078,Toko Tradisional Makassar 1,Toko Tradisional,Makassar,Sulawesi Selatan
+S079,Toko Tradisional Makassar 2,Toko Tradisional,Makassar,Sulawesi Selatan
+S080,E-commerce Makassar 1,E-commerce,Makassar,Sulawesi Selatan
+S081,Modern Trade Parepare 1,Modern Trade,Parepare,Sulawesi Selatan
+S082,Modern Trade Parepare 2,Modern Trade,Parepare,Sulawesi Selatan
+S083,Toko Tradisional Parepare 1,Toko Tradisional,Parepare,Sulawesi Selatan
+S084,Toko Tradisional Parepare 2,Toko Tradisional,Parepare,Sulawesi Selatan
+S085,E-commerce Parepare 1,E-commerce,Parepare,Sulawesi Selatan
